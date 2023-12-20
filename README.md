@@ -6,6 +6,8 @@ This project is a sample website for a web company. The work I did involved maki
 
 By working on this project, I've improved my own coding skills in several ways. First, I was able to practice the github flow enough times that, by the end, I no longer had to reference any instructional materials for how to create a branch, make changes, push the branch, and create a pull request. Second, I learned about HTML best practices and how to improve the consistency and readability of documents. I also learned new HTML semantic elements such as 'section', 'header', and 'nav'. Finally, I learned what makes html code accessible.
 
+Link to deployed application: https://owenphineas.github.io/code-refactor-1/
+
 ## Credits
 
 The starter code for this project was written by Xander Rapstine (https://github.com/Xandromus)
